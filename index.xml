@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iesumit</title>
+    <link>http://www.iesumit.github.io/</link>
+    <description>Recent content on iesumit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.iesumit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://www.iesumit.github.io/posts/hello-first-post/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iesumit.github.io/posts/hello-first-post/</guid>
+      <description>My first post Hello, welcome to my space, This is a test post for the blog. Will post some ramblings soon!</description>
+    </item>
+    
+    <item>
+      <title>About Sumit</title>
+      <link>http://www.iesumit.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iesumit.github.io/about/</guid>
+      <description>Hey there! 👋
+Welcome to my space on the internet. You will find my ramblings, stuff tha get&amp;rsquo;s me excited, usually that&amp;rsquo;s pretty much anything different than the norm.
+I aim to be an eclectic, and have a love for good food, life, love, thoughts and intentions!
+Hope you find something useful here.
+Thanks for reading!
+Sumit</description>
+    </item>
+    
+  </channel>
+</rss>
